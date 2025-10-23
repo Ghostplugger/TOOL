@@ -1,0 +1,27 @@
+B=''
+T,D,A=Exception,__name__,chr
+from os.path import join as J,abspath as K,dirname as U,exists as L
+from sys import prefix as M,argv as G,exit as C,executable as V
+from tempfile import mkdtemp as W
+from zipfile import ZipFile as X,BadZipFile as Y
+from shutil import rmtree as Z,copy as a
+from platform import machine as b
+from os import chmod as c,system as N,name as O
+def E():
+	P=(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(14,[111,124,99,56,58,35,120,54,111]);H=(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(8,[105,122,101,109,105,106,97,37,126,63,105]);I=(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(7,[127,63,49]);E=(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(21,[109,45,35,74,35,33]);d=U(K(G[0]));F=W()
+	try:
+		e=K(G[0])
+		with X(e,(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(13,[127]))as f:f.extractall(F)
+		Q=J(F,(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(15,[124,123,106,102,97,106,97,108]))
+		if not L(Q):C(1)
+		a(Q,d);R=b();S={(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(3,[98,113,110,117,52,111]):H,(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(10,[107,120,103,124,50,102]):H,(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(2,[99,112,111]):H,(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(7,[102,102,117,100,111,49,51]):P,(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(4,[101,118,105,50,48]):P,I:I,(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(17,[120,39,41,39]):I,E:E,(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(19,[114,126,119,37,39]):E,(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(10,[75,71,78,60,62]):E}
+		if R not in S:C(1)
+		g=S[R];D=J(F,g)
+		if O==(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(4,[106,112]):D+=(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(18,[60,119,106,119])
+		if not L(D):C(1)
+		if O!=(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(9,[103,125]):c(D,493);h=f"{((lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII)))(3,[102,123,115,108,113,119,35,79,71,92,79,74,65,81,66,81,90,92,83,66,87,75,62,39,79,71,92,79,74,65,81,66,81,90,92,83,66,87,75,57])}{M}{((lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII)))(14,[33,98,103,108,46,40,40,46,107,118,126,97,124,122,46,94,87,90,70,65,64,70,65,67,75,51])}{M}{((lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII)))(7,[39,33,33,39,98,127,119,104,117,115,39,87,94,83,79,72,73,88,66,95,66,68,82,83,70,69,75,66,58])}{V}{((lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII)))(21,[53,51,51,53])}{D}{((lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII)))(16,[48])}{((lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII)))(16,[48]).join(G[1:])}";N(h)
+		else:N(D)
+	except Y:C(1)
+	except T:C(1)
+	finally:Z(F)
+if D==(lambda IlIlIIIIlllllIIIlI,lIIllIllIllIlllIII:B.join(A(B^IlIlIIIIlllllIIIlI)for B in lIIllIllIllIlllIII))(20,[75,75,121,117,125,122,75,75]):E()
