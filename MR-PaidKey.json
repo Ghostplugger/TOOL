@@ -1,43 +1,7 @@
 [
     {
-        "device_id": "ef0a02c95804731d",
-        "key": "YTBROFUCK",
-        "expirydate": "28-10-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "79a606d8c20499aa",
-        "key": "Admin",
-        "expirydate": "30-10-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ac111edc13a42eb1",
-        "key": "YTBRO",
-        "expirydate": "20-10-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "c487acd9fb6562d6",
-        "key": "nsss",
-        "expirydate": "20-10-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "87fcdebe24543caf",
-        "key": "Admin",
-        "expirydate": "30-10-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "762B8005D6EDF262",
-        "key": "Admin2025",
+        "device_id": "9b89b8ce7c5b69b3",
+        "key": "Admin2027",
         "expirydate": "08-01-2026",
         "Allowoffline": true
     }
