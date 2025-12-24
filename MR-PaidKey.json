@@ -2,8 +2,8 @@
     {
         "device_id": "4383410f12f05115",
         "key": "Ownerx1",
-        "expirydate": "02-01-2025",
-        "Allowoffline": False
+        "expirydate": "30-12-2030",
+        "Allowoffline": true
     },
 {
         "device_id": "f00c96c3af261e23",
