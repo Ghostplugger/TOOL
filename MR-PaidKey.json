@@ -10,5 +10,11 @@
         "key": "Ownerx2",
         "expirydate": "30-12-2030",
         "Allowoffline": true
+    }'
+    {
+        "device_id": "a0a642d40e28bb3f",
+        "key": "KARMAxHARDY",
+        "expirydate": "30-12-2030",
+        "Allowoffline": true
     }
 ]
