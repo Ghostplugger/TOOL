@@ -1,20 +1,7 @@
 [
     {
-        "device_id": "cbc4bb7ee270e192",
-        "key": "Ownerx1",
-        "expirydate": "30-12-2030",
-        "Allowoffline": true
-    },
-{
-        "device_id": "f00c96c3af261e23",
-        "key": "Ownerx2",
-        "expirydate": "30-12-2030",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "a0a642d40e28bb3f",
-        "key": "KARMAxHARDY",
-        "expirydate": "30-12-2030",
+        "device_id": "83368a27059068ba",
+        "key": "BunnyPaid",
+        "expirydate": "30-12-2090",
         "Allowoffline": true
     }
-]
